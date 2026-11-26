@@ -1,0 +1,6 @@
+{
+  "name": "Lentera Pustaka",
+  "description": "Aplikasi perpustakaan digital real-time dengan peminjaman QR code, pencarian kategori, ulasan pembaca, statistik bulanan, serta pengingat otomatis email dan WhatsApp.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
